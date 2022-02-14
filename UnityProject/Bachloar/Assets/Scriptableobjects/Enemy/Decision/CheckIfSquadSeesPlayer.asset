@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a4fd4d829b11f46b0697e9f5118af2, type: 3}
+  m_Name: CheckIfSquadSeesPlayer
+  m_EditorClassIdentifier: 
+  trueState: {fileID: 11400000, guid: 63c0e70b8be6c0a4198ba6907797eecf, type: 2}
+  utilityTransitions:
+  - utilitieName: 2
+    utilitieTransitionState: {fileID: 11400000, guid: 0e8a8798ed8198b49a47734b4f2f247e, type: 2}
+  - utilitieName: 3
+    utilitieTransitionState: {fileID: 11400000, guid: 9edae0d032654744bbce82ab59feed1d, type: 2}
+  - utilitieName: 0
+    utilitieTransitionState: {fileID: 11400000, guid: 63c0e70b8be6c0a4198ba6907797eecf, type: 2}

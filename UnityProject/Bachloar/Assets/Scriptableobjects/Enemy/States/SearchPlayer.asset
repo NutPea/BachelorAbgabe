@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7fe5d104e5593d4d837c53af2bd09b4, type: 3}
+  m_Name: SearchPlayer
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 6e180ae83df0c3b4ab75ef3dba1c2c8e, type: 2}
+  - {fileID: 11400000, guid: c0d1dcb83c417f54590742c8d7858199, type: 2}
+  decisions:
+  - {fileID: 11400000, guid: 20addf86e9ef91448a828f26d94de55b, type: 2}
+  - {fileID: 11400000, guid: f7f300034c20d72428639866716c6c09, type: 2}
+  - {fileID: 11400000, guid: e701afb4f2e395641912fbd1e9a41e40, type: 2}
+  stateName: SearchPlayer

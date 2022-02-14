@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1938587690efe94f9b9839bf4fae39a, type: 3}
+  m_Name: MovementShotTarget
+  m_EditorClassIdentifier: 
+  minTimeBetweenStrave: 1
+  maxTimeBetweenStrave: 3
+  straveTime: 0.5
+  straveSpeed: 10
+  minStopDistance: 5
+  maxStopDistance: 7

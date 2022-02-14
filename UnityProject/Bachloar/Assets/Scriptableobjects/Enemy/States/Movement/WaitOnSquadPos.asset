@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7fe5d104e5593d4d837c53af2bd09b4, type: 3}
+  m_Name: WaitOnSquadPos
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 9207bd6e8016c1445a8efbccbac17e7e, type: 2}
+  - {fileID: 11400000, guid: 866c4a5e446a0a04f9ac314888b9fa40, type: 2}
+  decisions:
+  - {fileID: 11400000, guid: 227a48c8022d0b44ba1611390768f15f, type: 2}
+  stateName: WaitOnSquadPos
